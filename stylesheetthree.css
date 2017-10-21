@@ -1,0 +1,28 @@
+
+.list {border:5px solid darkseagreen;
+            width:300px;
+    margin-left:460px;
+    margin-top: 20px;
+        margin-bottom:500px}
+#heading{ border-left:550px solid darkseagreen;
+    border-right:550px solid darkseagreen;
+    border-top:10px solid darkseagreen;
+    border-bottom:10px solid darkseagreen;
+    padding-left: 5px;
+    padding-top:20px;
+    padding-bottom:20px;
+    position:fixed;
+    margin-left:0px
+        
+    }
+
+#paraone {margin-top:50px;
+    margin-left: 460px;
+    margin-bottom:500px}
+
+#paratwo {margin-top:500px;
+margin-bottom:500px;
+margin-left:430}
+
+#parathree {margin-left: 450px;
+            margin-bottom: 300px}

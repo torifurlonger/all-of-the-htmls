@@ -1,0 +1,16 @@
+#title {font-size: 500px;
+    width: 5900px;
+    border-bottom:60px solid darkseagreen;
+    text-align: center;
+    font-family:sans-serif;
+font-weight: 600;
+}
+
+#body {text-align: right;
+width: 5900px;
+font-weight: 500;
+font-family: sans-serif;
+margin-top: 20px;
+}
+
+#nav {width:5900px}

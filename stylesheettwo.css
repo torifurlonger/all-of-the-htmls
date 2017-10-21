@@ -1,0 +1,27 @@
+div{ border-left:550px solid darkseagreen;
+    border-right:550px solid darkseagreen;
+    border-top:300px solid darkseagreen;
+    border-bottom:300px solid darkseagreen;
+    padding-left: 5px;
+    padding-top:20px;
+    padding-bottom:20px
+    }
+
+#one {border-left:700px solid darkseagreen;
+    border-right:600px solid darkseagreen;
+    border-top:500px solid darkseagreen;
+    border-bottom:500px solid darkseagreen;   
+    }
+
+#two {border-left:400px solid darkseagreen;
+    border-right:900px solid darkseagreen;
+    border-top:100px solid darkseagreen;
+    border-bottom:500px solid darkseagreen; }
+
+#three{border-left:1000px solid darkseagreen;
+    border-right:300px solid darkseagreen;
+    border-top:100px solid darkseagreen;
+    border-bottom:500px solid darkseagreen;   
+    }
+#nav{border-top:300px solid darkseagreen;
+padding-top 5px}

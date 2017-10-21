@@ -1,0 +1,45 @@
+
+#heading {font-family:serif;
+font-size: 50px;
+text-align: center;
+    letter-spacing: 5px;
+    margin-top: 300px;
+    margin-bottom: 600px;
+    padding-bottom: 20px;
+    border-bottom: 10px solid darkseagreen;
+    width: 1300px;}
+
+#one{border-left:700px solid palegreen;
+    border-right:600px solid palegreen;
+    border-top:400px solid palegreen;
+    border-bottom:400px solid palegreen;   
+   }
+#two{border-left:700px solid lightgreen;
+    border-right:600px solid lightgreen;
+    border-top:400px solid lightgreen;
+    border-bottom:400px solid lightgreen;   
+   }
+#three{border-left:700px solid yellowgreen;
+    border-right:600px solid yellowgreen;
+    border-top:400px solid yellowgreen;
+    border-bottom:400px solid yellowgreen;   
+   }
+#four{border-left:700px solid darkseagreen;
+    border-right:600px solid darkseagreen;
+    border-top:400px solid darkseagreen;
+    border-bottom:400px solid darkseagreen;   
+   }
+#five{border-left:700px solid green;
+    border-right:600px solid green;
+    border-top:400px solid green;
+    border-bottom:400px solid green; 
+   }
+
+#nav {}
+
+
+
+
+
+div {font-family: 'Raleway', sans-serif;
+}

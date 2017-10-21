@@ -1,0 +1,31 @@
+#one {position: fixed;
+margin-top: 250px;
+    margin-left:450px}
+
+#first {position: absolute;
+margin-top: 250px;
+margin-left: 440px}
+
+#two {position: absolute;
+margin-top: 800px;
+margin-left:440px}
+
+#three {position: absolute;
+margin-top: 1500px;
+margin-left:440px}
+
+#four { position: absolute;
+margin-top: 2000px;
+margin-left:440px}
+
+#five { position: absolute;
+margin-top: 2500px;
+margin-left:440px;}
+
+div {color: white;
+font-family: 'Raleway', sans-serif;
+}
+
+#nav{ position:absolute;
+margin-top: 2800px;
+margin-left: 500px}

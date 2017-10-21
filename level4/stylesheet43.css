@@ -1,0 +1,12 @@
+div {border: 100px solid darkseagreen;
+    border-bottom: 700px solid darkseagreen;
+    border-right: 500px solid darkseagreen;
+    border-left:500px solid darkseagreen;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    font-family: 'Amatic SC', cursive;
+    border-top: 300px solid darkseagreen
+}
+
+#two {border-bottom: 400px solid darkseagreen}
